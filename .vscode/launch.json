@@ -1,0 +1,13 @@
+{
+    "name": "Launch",
+    "type": "go",
+    "request": "launch",
+    "mode": "auto",
+    "remotePath": "",
+    "port": 2345,
+    "host": "127.0.0.1",
+    "program": "${fileDirname}",
+    "env": {},
+    "args": ["--start 999", "--stop=1998", "--folder ./icons"],
+    "showLog": false
+}
